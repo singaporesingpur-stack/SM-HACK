@@ -1,0 +1,6 @@
+{
+  "name": "Pension Prediction Tool",
+  "description": "Python-powered signal prediction system and win/loss history tracker dashboard for WinGo lottery draws.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
